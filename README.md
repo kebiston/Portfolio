@@ -1,5 +1,9 @@
 
 
+# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+
+Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+
 # Features
 
 - Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
@@ -13,7 +17,7 @@
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/............/portfolio
+   git clone https://github.com/kebiston/portfolio
    ```
 
 2. Move to the cloned directory
